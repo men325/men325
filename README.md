@@ -2,7 +2,7 @@
 <code>🎓 Student: Chernihiv Polytechnic National University / PI-212</code>  
 <code>👷 Speciality: Game-developer / Unreal Engine </code><br> 
 <code>💻 Languages: C++, HTML, CSS, Java</code>  
-
+<code>💡 [Skills](SKILLS.md)</code>
 
 
 
