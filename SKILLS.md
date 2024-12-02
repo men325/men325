@@ -1,9 +1,8 @@
-# Personal profile of software engineering skills
+# Personal profile of Crucial Game Developing Skills
 
 🟩 Learned, 🟨 In progress, ⬜ Not learned, 🟥 Declined
 
 
-## Crucial Game Developing Skills
 
 | Game Mathematics      | Game Physics           | Computer Graphics     | Game AI                  |
 |------------------------|------------------------|------------------------|--------------------------|
